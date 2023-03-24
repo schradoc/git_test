@@ -1,4 +1,5 @@
 # git_test
+
 My first GibHub repo!
 Hello Odin!
 ... And Hello Again Odin!
@@ -26,3 +27,5 @@ I could not get to the other side.
 In this land of unbelief and fear?
 The Land of Dreams is better far
 Above the light of the morning star."
+
+Here are some edits that i've made ot the repo; will it recognize them?
